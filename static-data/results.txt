@@ -1,0 +1,872 @@
+The article with ID 59748 and Catalog Record ID 81cfe159-0de9-495d-bb78-3059b12cf629 has these potential keys:
+chlorophyll
+winter climatology
+p. gloersen
+degrees longitude
+polar climatological
+marine ice accretion
+amsr-e
+fast ice presence
+upper_slope
+photovoltaic assessments
+csiro mk3.5d
+space flight center
+boulder
+oceans
+geomorphic
+clarke
+bathymetry
+daily solar radiation values
+t. p. boyer
+processing
+haversine
+seafloor
+maximum winter sea ice extent
+mercator
+c12003
+world ocean
+h. e. garcia
+goldsworthy pm
+0m summer
+hofierka
+original 9km resolution data
+gebco
+r.a.
+polar stereographic projection
+mcdonell
+daily sea ice concentration
+original 9km resolution
+a.l.
+20-day composite records
+500m winter
+january
+near-surface
+d. iudicone
+subantarctic islands
+climatology
+satellite estimates
+coleman r
+oxford
+0.1-degree rectangular grid
+locarnini
+dijken
+margin_ridges
+average
+feldman gc
+data courtesy
+g. heygster
+poster
+arc-minute global relief model
+rough_seafloor
+daily incident solar radiation
+fast ice pixels
+implications
+austral summer seasons
+runcie jw
+weekly ssha
+procedures
+massom ra
+reference
+2009. http
+good empirical
+rio
+stark js
+science 277:1957-1962. http
+austral summer season
+summer months
+spreen
+3271. http
+md
+regridded
+c.
+radius 6378.137km
+colorado usa
+passive microwave estimates
+hunter jr
+0m depth
+continental shelf
+washington
+polynya area
+extent line
+contourite_feature
+fast ice
+layer depth climatology
+depth data
+oceanographic data
+shelf_bank
+degrees latitude
+sea ice concentrations
+0m winter
+nasa goddard
+eric woehler
+200m winter
+ice data
+arrigo kr
+amante
+j. i. antonov
+benthic ecology
+current
+spatial
+york
+ed
+principles
+lower_slope
+points
+nearest-neighbour interpolation
+u.s.a.
+profile data
+layer depth
+abyssal_plain
+bank_wave_affected
+zealand
+grace
+'s world map shapefile
+landfast sea ice distribution
+mean dynamic topography
+australia
+snow
+c. parkinson
+sea surface
+n.
+annual
+200m summer
+galton-fenzi bk
+geomorphology data
+cnes
+antarctic-wide
+r. a.
+p.e.
+d.c.
+document ws-vme-09/10
+structural_slope
+2.5m depth
+modelling
+noaa atlas nesdis
+vulnerable marine ecosystems
+j hofierka
+geoscience australia
+summary environmental layers
+etopo1
+nimbus-7 smmr
+america
+consistent 0.1-degree grid
+marginal_plateau
+file
+w. h. f.
+esri
+upper slope
+color web
+marsland sj
+neighbour interpolation
+inventory
+southern ocean
+floor
+original 2.5-degree grid
+africa
+ssh
+data sources
+sea ice concentration
+period 14-oct-1992
+global ocean
+polar stereographic
+roms
+dynamic topography
+digital
+kuring
+derived
+bilinear interpolation
+g. moreaux
+analysis
+climate model
+silicate
+water velocity
+mapping
+spherical earth
+g. madec
+grid format
+original 1-minute resolution
+climate
+calculations
+source
+suri
+20c3m model run
+sea ice summer variability
+modis aqua
+geomorphology file
+1-degree grid
+l. kaleschke
+ccamlr vme
+sea ice
+res.
+oxygen saturation
+seafloor geomorphic
+eds
+j. i.
+cnes-cls09 mean dynamic topography
+venice
+ace-crc
+modeling
+december
+oxygen
+degrees c
+sea water velocity
+cumulative solar radiation
+csiro mk3.5 climate model
+ocean surface
+volcano
+21. http
+cloud-free sky
+sea surface height
+surface
+% concentration
+png preview map
+depth
+gradient
+polar ecosystems
+aviso
+gis
+garcia
+derivative works
+smith
+island_coastal_terrane
+island_arc
+lieser jl
+only
+% 20slope % 20works
+g.
+original grid
+spatial resolution
+landfast sea-ice
+source data
+raymond
+slope
+500m summer
+b. w. eakins
+g03003
+antarctic
+r.
+bailey
+vertical
+d. t. sandwell
+corresponding values
+nutrients
+fraser
+michael kj
+original
+silver
+dec-2010
+etopo1 processing
+fast
+printing
+distances
+passive microwave data
+boreal summer seasons
+variability
+p. a.
+amery ice shelf
+dijken gl
+spatial gradient
+romeyn
+in-situ measurements
+a. s. fischer
+sea ice data
+concentration
+sep
+data layer
+variables
+caisom
+a.
+d.
+vertical velocity
+modis aqua reprocessing
+trench
+warner rc
+modis
+isolated
+cawcr technical
+iceshelf_cavity
+etopo2
+dissolved oxygen
+seaice_gt_85 layer
+sea surface height variables
+biology
+plateau
+j-m lemoine
+a. lazar
+v-wind components
+global
+measured
+0.1-degree grid
+september
+note
+mean
+ghz
+seismic lines
+february
+altimetry data
+ncep/doe reanalysis
+shelf_deep
+j. geophys
+document ws-vme-09/10 geomorphic
+ssalto/duacs
+average proportion
+dmsp ssm/i
+fracture_zone
+solar radiation model
+s.w
+approximate resolution
+light budget
+canyon axis
+native 1/3-degree
+antarctica file
+depth 500m
+bathymetry data
+solar radiation
+riddle mj
+boyer montegut
+p. schaeffer
+values
+antonov
+c09031
+woa
+plateau_slope
+water surface
+seamount_ridges
+50m winter
+6.25km resolution
+scientific purposes
+clark
+modis aqua antarctic
+atlas
+aad
+ben galton-fenzi
+mid_ocean_ridge_valley
+data
+burrough
+ocean model
+6.25km polar stereographic grid
+doi:10.1029/2005jc003384 http
+temperature
+satellite altimetry
+jan-2000
+university press
+arrigo
+0.05-degree resolution
+landfast sea ice data
+johnston el
+arctic
+seafloor topography
+s. levitus
+mixed
+cross_shelf_valley
+ssha
+50m summer
+negative distances
+500m depth
+topicname=how
+potential
+seamount
+native 0.25-degree grid
+nsidc
+trough
+winter sea ice extent
+clark gf
+geophysical
+daily estimates
+proportion
+annual light budget
+sea floor
+m-h
+upward
+standard deviation
+regional ocean
+chl-a summer climatology
+land mass
+coastal polynya systems
+gordon
+trough_mouth_fan
+pixels
+salinity
+cavalieri
+o'brien
+circum-antarctic coverage
+sea surface temperature summer climatology
+geographical information systems
+landfast sea ice
+smmr-ssm/i
+fraser ad
+light-driven
+polar stereographic grid
+argos
+bathymetry file
+such polynya pixel
+oceanobs09
+r. a. locarnini
+h. e.
+arcinfo ascii
+gis-based
+current speed
+grid point
+h. j. zwally
+2-degree grid
+apparent oxygen utilization
+linear interpolation
+sandwell v13.1
+polynya locations
+a. v. mishonov
+exploratory analyses
+distance
+nb
+phytoplankton
+e. bronner
+ship depth soundings
+calculated
+noaa technical memorandum nesdis ngdc-24
+march
+references
+nox
+mcclain cr
+d. seidov
+class names
+u.s.
+land masses
+transactions
+sst
+coastal_terrane
+
+*********
+
+
+The article with ID 54874 and Catalog Record ID 9627696e-eec7-4459-8339-5c49cf3e06f1 has these potential keys:
+geoscience australia
+image processing software
+datasets measure
+nasa
+australian
+seadas
+southern ocean
+modis
+australian eez
+euphotic depth
+zeu
+spatial resolution
+
+*********
+
+
+The article with ID 55425 and Catalog Record ID 538bc6c1-9a67-41fc-8e8c-1c68e948f018 has these potential keys:
+nasa
+diffuse
+skin
+currently
+june
+aims
+august
+near future
+january
+modis
+avhrr
+chl
+seawifs
+aims x-band
+attenuation coefficient
+orbview-2
+k490
+ocean turbidity proxy
+noaa
+surface temperature
+eos
+sst
+chlorophyll-a
+series satellites
+
+*********
+
+
+The article with ID 56990 and Catalog Record ID 47b0e974-972f-4ca2-9cd6-23245a713ee6 has these potential keys:
+geoscience australia
+image processing software
+datasets measure
+ocean surface waters
+nasa
+seadas
+suspended materials
+southern ocean
+modis
+australian eez
+spatial resolution
+tsm
+
+*********
+
+
+The article with ID 59056 and Catalog Record ID 3c2952ca-d247-41b7-98e4-4dac188d559c has these potential keys:
+nasa
+diffuse
+skin
+currently
+june
+aims
+august
+near future
+january
+modis
+avhrr
+chl
+seawifs
+aims x-band
+attenuation coefficient
+orbview-2
+k490
+ocean turbidity proxy
+noaa
+surface temperature
+eos
+sst
+chlorophyll-a
+series satellites
+
+*********
+
+
+The article with ID 47117 and Catalog Record ID 145e4734-4ad5-4537-b76b-e8b4f8a46094 has these potential keys:
+geoscience australia
+cdom
+image processing software
+datasets measure
+ocean surface waters
+nasa
+seadas
+southern ocean
+coloured dissolved organic matter
+modis
+australian eez
+spatial resolution
+
+*********
+
+
+The article with ID 47328 and Catalog Record ID cece9151-5ccc-402c-93d7-1982a94a8c11 has these potential keys:
+nopims
+delivery system
+kml
+attribute tables
+legacy data
+seismic
+repository
+recent openfile surveys
+alternatively
+@ ga.gov.au
+data 's accuracy
+autocad3d
+seismic survey
+google earth
+snip
+geoscience australia
+disclaimer
+shape
+navigation database
+navigation collection
+navigation files
+individual p190 files
+p190
+supports shape files
+storage regulations
+file formats
+data downloads
+old survey track maps
+esri arcgis explorer
+p190 navigation files
+nasa worldwind
+standard metadata
+adobe photoshop
+earth browser
+offshore petroleum
+particular purpose
+greenhouse
+ukooa
+extensive
+spatial files
+3d seismic files
+ausgeodata
+category contains legacy data
+
+*********
+
+
+The article with ID 47896 and Catalog Record ID 673f2051-1aa9-4ed6-b944-6b0983af8449 has these potential keys:
+geoscience australia
+cdom
+image processing software
+datasets measure
+ocean surface waters
+nasa
+seadas
+southern ocean
+coloured dissolved organic matter
+modis
+australian eez
+spatial resolution
+
+*********
+
+
+The article with ID 48866 and Catalog Record ID 2ae3b6b6-2cc1-4320-b470-bfe9aa81133a has these potential keys:
+geoscience australia
+surface temperature
+image processing software
+datasets measure
+nasa
+australian
+seadas
+sst
+southern ocean
+modis
+australian eez
+spatial resolution
+
+*********
+
+
+The article with ID 50476 and Catalog Record ID c9cd86d0-fced-47c3-adbc-19ea038952d2 has these potential keys:
+geoscience australia
+image processing software
+datasets measure
+turbidity parameter
+nasa
+australian
+seadas
+downwelling
+k490
+diffuse attenuation coefficient
+monthly k490 layers
+southern ocean
+modis
+australian eez
+spatial resolution
+
+*********
+
+
+The article with ID 51357 and Catalog Record ID 60367530-c299-4f58-9a30-6edf96cc7e98 has these potential keys:
+kml
+zealand
+shapefile
+alternatively
+data 's accuracy
+autocad3d
+integration project
+google earth
+snip
+geoscience australia
+disclaimer
+australia
+fugro multi client
+supports shape files
+wgs84
+data downloads
+esri arcgis explorer
+nasa worldwind
+adobe photoshop
+earth browser
+particular purpose
+shared
+offshore seismic navigation data
+
+*********
+
+
+The article with ID 51817 and Catalog Record ID fcf41950-f654-41b6-b7aa-fc0b84181442 has these potential keys:
+chlorophyll
+geoscience australia
+image processing software
+datasets measure
+ocean surface waters
+nasa
+seadas
+southern ocean
+modis
+australian eez
+spatial resolution
+
+*********
+
+
+The article with ID 52654 and Catalog Record ID 6dc547b6-1fd8-4b55-825f-dcb1646e2daa has these potential keys:
+lexicon
+van
+nicoll
+gab
+virtual globe application
+significant portions
+nasa
+resource assessment
+national water
+2d screen captures
+discussions
+hydrogeological units
+gabflow
+australian
+public version
+wind
+system conceptualisation
+effective datasets
+environmental geoscience
+wielen
+ga website
+healthy
+senior b. canberra
+key datasets
+geoscience australia
+contour interpretations
+artesian
+groundwater
+nelson
+record 2011/xx
+britt
+available open-source
+ransley tr
+technical report
+flagship
+smerdon bd
+potential benefits
+three-dimensional visualisation product
+water managers
+communication products
+output datasets
+content delivery
+steady state groundwater flow model
+initiative
+methodology
+end users
+australia
+senior
+internal data
+viewer
+multiuse 3d map
+w.d
+contact surfaces
+csiro
+data viewer
+3d visualisation
+major aquifers
+lineage
+references
+cenozoic
+future directions
+gocad®
+assessment
+3d products
+kellett jr
+eromanga
+wind java sdk
+source code
+wire-line data
+carey h
+bell jg
+3d data viewer
+visualisation component
+radke bm
+hydrostratigraphy
+three-dimensional visualisation
+3d visualisation component
+canberra
+skirrow r
+radke
+nelson gj
+kirkby
+method
+effective products
+content creation
+
+*********
+
+
+The article with ID 53172 and Catalog Record ID 0aab5603-d292-41de-a4c8-e13e1313dce6 has these potential keys:
+nopims
+delivery system
+kml
+attribute tables
+seismic
+repository
+recent openfile surveys
+alternatively
+@ ga.gov.au
+2d investigative seismic files
+data 's accuracy
+autocad3d
+seismic survey
+google earth
+snip
+geoscience australia
+disclaimer
+shape
+marine surveys
+3d exploration
+2d exploration
+navigation collection
+navigation files
+individual p190 files
+p190
+supports shape files
+storage regulations
+file formats
+data downloads
+investigative purposes
+old survey track maps
+esri arcgis explorer
+p190 navigation files
+nasa worldwind
+standard metadata
+adobe photoshop
+earth browser
+offshore petroleum
+particular purpose
+greenhouse
+ukooa
+extensive
+spatial files
+ausgeodata
+
+*********
+
+
+The article with ID 53583 and Catalog Record ID 2f9e8ccd-0d34-47b3-8854-19742c72fa88 has these potential keys:
+kml
+legacy data
+survey track maps
+alternatively
+@ ga.gov.au
+navigation file
+data 's accuracy
+autocad3d
+seismic survey
+google earth
+users
+geoscience australia
+snip
+disclaimer
+shape
+australia
+navigation collection
+navigation files
+p190
+original navigation files
+significant improvement
+supports shape files
+file formats
+data downloads
+navigation data
+esri arcgis explorer
+marine seismic surveys
+nasa worldwind
+standard metadata
+adobe photoshop
+earth browser
+particular purpose
+ukooa
+ausgeodata
+
+*********
+
+
